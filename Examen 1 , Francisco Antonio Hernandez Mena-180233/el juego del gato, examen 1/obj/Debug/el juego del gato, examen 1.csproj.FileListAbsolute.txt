@@ -1,0 +1,6 @@
+C:\Users\dell\Documents\SharpDevelop Projects\el juego del gato, examen 1\el juego del gato, examen 1\bin\Debug\el juego del gato, examen 1.exe.config
+C:\Users\dell\Documents\SharpDevelop Projects\el juego del gato, examen 1\el juego del gato, examen 1\bin\Debug\el juego del gato, examen 1.exe
+C:\Users\dell\Documents\SharpDevelop Projects\el juego del gato, examen 1\el juego del gato, examen 1\bin\Debug\el juego del gato, examen 1.pdb
+C:\Users\dell\Documents\SharpDevelop Projects\el juego del gato, examen 1\el juego del gato, examen 1\obj\Debug\el juego del gato, examen 1.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\SharpDevelop Projects\el juego del gato, examen 1\el juego del gato, examen 1\obj\Debug\el juego del gato, examen 1.exe
+C:\Users\dell\Documents\SharpDevelop Projects\el juego del gato, examen 1\el juego del gato, examen 1\obj\Debug\el juego del gato, examen 1.pdb
